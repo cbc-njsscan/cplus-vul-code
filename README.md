@@ -8,7 +8,7 @@ This is a XNU (IOKit) kernel extension inspired by the `hacksysteam/HackSysExtre
 
 - Stack buffer overflow (based on matesCTF's KSMASH Linux kernel Exploit challenge)
 
-- Heap buffer overflow (stereo-typed version of IOAccelerationFamilyV2. replica of CVE-2020-3837 bug)
+- Heap buffer overflow (stereo-typed version of IOAccelerationFamilyV2. rteplica of CVE-2020-3837 bug)
 
 - The one I accidentially made and haven't noticed yet.
 
